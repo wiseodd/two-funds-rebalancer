@@ -1,0 +1,11 @@
+{
+    "current_values": {
+        "stock": 11440,
+        "bonds": 9500
+    },
+    "target_allocation": {
+        "stock": 0.6,
+        "bonds": 0.4
+    },
+    "new_investment": 1000
+}
